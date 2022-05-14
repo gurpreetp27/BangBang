@@ -1,0 +1,10 @@
+
+@font-face {
+  font-family: 'AnimeAce';
+  src: url('fonts/AnimeAce.eot?#iefix') format('embedded-opentype'),
+       url('fonts/AnimeAce.woff') format('woff'),
+       url('fonts/AnimeAce.ttf')  format('truetype'),
+       url('fonts/AnimeAce.svg#AnimeAce') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

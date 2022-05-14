@@ -1,0 +1,919 @@
+@media (max-width: 1199px){
+    .title-main h2{
+        font-size: 42px;
+    }
+    h5 {
+        font-size: 20px;
+    }
+    p{
+        font-size: 14px;
+    }
+    .copyright p{
+        font-size: 16px;
+    }
+    span.price{
+        font-size: 34px;
+    }
+    header .navbar-nav li {
+       padding: 0 5px;
+    }
+    .headerbtn-signup {
+       margin-left: 15px;
+    }
+    .headerbtn-signup ul li a{
+        font-size: 14px;
+    }
+    .header-language li a{
+        font-size: 14px;
+    }
+    header .navbar-nav li a{
+        font-size: 14px;
+    }
+    header a.navbar-brand img{
+        max-width: 168px;
+    }
+    .package-footer a{
+        font-size: 18px;
+    }
+    .all-margin {
+       margin-top: 110px;
+    }
+    .banner-text{
+        top: 134px;
+    }
+    .banner-text{
+        top: 128px;
+    }
+    .banner-text h1 {
+        font-size: 40px;
+    }
+    .form-box {
+        width: 60%;
+    }
+    .site-logo img {
+        max-width: 43%;
+    }
+    .form-box button.btn.btn-resetlink{
+        font-size: 14px;
+    }
+    .testimonial-part{
+       height: 450px;
+    }
+    .table2 tr:first-child td:nth-child(1) p{
+        font-size: 14px;
+    }
+    .firts-sec ul li:first-child tag{
+        font-size: 14px;
+    }
+
+    /****************************GermanPage**********************/
+    body.de .headerbtn-signup ul li {
+        padding: 2px 10px 2px;
+    }
+    body.de .result-right a.btn.btn-won{
+        font-size: 12px;
+        padding: 21px 6px;
+    }
+    body.de .btn-result {
+        font-size: 12px;
+         white-space: pre-wrap; /* css-3 */    
+        white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+        white-space: -pre-wrap; /* Opera 4-6 */    
+        white-space: -o-pre-wrap; /* Opera 7 */    
+        word-wrap: break-word; /* Internet Explorer 5.5+ */
+    }   
+    /*************german Page End******************/
+
+    /*****Romaina page****/
+    body.ro .headerbtn-signup ul li {
+    padding: 2px 10px 2px;
+    }
+    body.ro .result-right a.btn.btn-won{
+        font-size: 12px;
+        padding: 21px 6px;
+    }
+    body.ro .btn-result {
+        font-size: 12px;
+         white-space: pre-wrap; /* css-3 */    
+        white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+        white-space: -pre-wrap; /* Opera 4-6 */    
+        white-space: -o-pre-wrap; /* Opera 7 */    
+        word-wrap: break-word; /* Internet Explorer 5.5+ */
+    }
+    /********End Romania Page**********/
+}
+
+@media (max-width: 1080px){
+/****************************GermanPage**********************/
+body.de header .navbar-nav li {
+    padding: 0 4px;
+}
+body.de header .navbar-nav li a {
+    font-size: 13px;
+}
+body.de .headerbtn-signup ul li a {
+    font-size: 13px;
+}
+/*************german Page End******************/
+
+/*************Romania Page*********/
+body.ro header .navbar-nav li {
+    padding: 0 4px;
+}
+body.ro header .navbar-nav li a {
+    font-size: 13px;
+}
+body.ro .headerbtn-signup ul li a {
+    font-size: 13px;
+}
+/****************END Romania Page**********/
+}
+
+
+@media (max-width: 1024px){
+.title-bang:before{
+    width: 20px;
+    right: -20px;
+}
+.title-bang:after{
+    width: 20px;
+    left: -20px;
+}
+.table2 tr:first-child td:nth-child(2){
+    font-size: 14px;
+}
+.table2 tr:first-child td:nth-child(1) p{
+    font-size: 14px;
+}
+.table2 tr:first-child td:nth-child(1) span{
+    font-size: 14px;
+}
+.table2 tr:first-child td span{
+    font-size: 14px;
+}
+.table2 tr:nth-child(2) td strong{
+    font-size: 16px;
+}
+.result-right ul li:nth-child(2) {
+    padding: 1px 8px;
+}
+.result-right a.btn.btn-won{
+    padding: 17px 10px;
+    min-width: 115px;
+}
+.btn-result{
+    font-size: 14px;
+}
+.title-bang h2{
+    font-size: 32px;
+}
+.best-resultlast{
+    font-size: 24px!important;
+}
+.best-resultlast_desc h3 {
+    font-size: 16px;
+}
+}
+
+@media (max-width: 991px){
+.banner-text {
+    top: 108px;
+}
+.banner-text h1 {
+    font-size: 30px;
+}
+header a.navbar-brand img {
+    max-width: 138px;
+}
+button.navbar-toggler {
+    float: right;
+    margin-left: auto;
+    background-color: #fff200;
+    margin-top: 23px;
+    position: relative;
+    padding: 5px 9px;
+}
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1em;
+    vertical-align: middle;
+    content: "";
+    background: no-repeat center center;
+    background-size: 100% 100%;
+    border-top: 2px solid #d82211;
+    border-bottom: 2px solid #d82211;
+}
+.navbar-toggler-icon:after {
+    border-top: 2px solid #d82211;
+    content: '-';
+    width: 29px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%);
+    color: transparent;
+}
+.headerbtn-signup {
+    margin-left: 0;
+    float: left;
+    margin-right: 0;
+    position: absolute;
+    right: 90px;
+    top: 40px;
+}
+header .navbar-nav li {
+    padding: 0 0 8px;
+}
+ul.navbar-nav{
+    padding-top: 10px;
+}
+.package-section {
+    padding: 0;
+}
+h5 {
+    font-size: 18px;
+}
+.package-body {
+    padding: 35px 10px 40px;
+}
+.package-body li p{
+    font-size: 12px;
+}
+.package-footer a {
+    font-size: 16px;
+}
+.all-margin {
+    margin-top: 92px;
+}
+.account-btn span{
+    margin: 42px 0px;
+}
+aside .account-section form button.btn.btn-primary{
+    font-size: 15px;
+}
+.payment_option label:first-child{
+    background-position: right 8px;
+    background-size: 62px;
+}
+.payment_option label:nth-child(2){
+    background-size: 70px;
+}
+.table2 tr:first-child td:nth-child(2) {
+    font-size: 12px;
+}
+.table2 tr:first-child td p{
+    font-size: 8px;
+}
+.table2 tr:nth-child(2) td strong{
+    width: 47%;
+    font-size: 14px;
+}
+.result-right, .table2{
+    height: 98px;
+}
+.result-right p {
+    display: inline-block;
+    float: left;
+    width: 88px;
+    font-size: 11px;
+}
+.detail-match > div {
+    display: inline-block;
+    float: left;
+    width: 60%;
+}
+.result-right tag {
+    font-size: 11px;
+    margin-right: 5px;
+    display: inline-block;
+    float: left;
+    text-align: center;
+    min-width: 20%;
+}
+.result-right a.btn.btn-won {
+    padding: 19px 4px;
+    min-width: 86px;
+    font-size: 11px;
+}
+.result-right ul li:nth-child(2) .detail-match p {
+    margin-bottom: 0px;
+    margin-top: 2px;
+    width: fit-content;
+    max-width: 67%;
+    vertical-align: -webkit-baseline-middle;
+}
+.btn-result {
+    font-size: 12px;
+}
+.detail-match > div p {
+    max-width: 65%;
+    white-space: nowrap;
+    width: 88px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.points-clculate p {
+    width: 93px;
+}
+.points-clculate span {
+    font-size: 20px;
+    vertical-align: -webkit-baseline-middle;
+}
+.contact-page {
+    width: 90%;
+}
+.results-tabs .nav-tabs li a {
+    font-size: 14px;
+    padding: 10px;
+}
+.month-dropdown select{
+    padding: 2px 4px;
+    font-size: 14px;
+}
+.month-dropdown select option{
+    font-size: 14px;
+}
+.month-dropdown:before {
+    top: 16px;
+    font-size: 26px;
+}
+.footer-logo img {
+    max-width: 140px;
+}
+.errorpage h2 {
+    font-size: 8rem;
+}
+.testimonial-part {
+    height: 650px;
+}
+.testimonial-part p{
+    max-height: 240px
+}
+.table2 tr:first-child td:nth-child(1) p{
+    font-size: 8px;
+}
+.new_bettop ul li tag{
+    font-size: 8px;
+}
+.new_bettop ul li:first-child{
+    font-size: 14px;
+}
+.newmultiple_detail-match .btn-won{
+    padding: 20px 6px!important
+}
+.firts-sec ul li:nth-child(3) tag{
+    font-size: 8px;
+}
+.newmultiple_detail-match div{
+    width: 100%;
+}
+.firts-sec ul li:first-child tag{
+        font-size: 8px;
+    }
+/****************************GermanPage**********************/
+body.de .points-clculate span{
+    font-size: 20px;
+    vertical-align: -webkit-baseline-middle;
+}
+body.de .points-clculate p {
+    width: 93px;
+}
+body.de .result-right a.btn.btn-won {
+    font-size: 12px;
+    padding: 10px 6px;
+    height: 57px;
+    white-space: pre-wrap; /* css-3 */    
+    white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+    white-space: -pre-wrap; /* Opera 4-6 */    
+    white-space: -o-pre-wrap; /* Opera 7 */    
+    word-wrap: break-word; /* Internet Explorer 5.5+ */
+}
+body.de .package-header h5 {
+    height: 32px;
+}
+body.de .headerbtn-signup ul li a {
+    font-size: 12px;
+}
+/*************German Page End******************/
+
+/*************Romania Page***********************/
+body.ro .points-clculate span{
+    font-size: 20px;
+    vertical-align: -webkit-baseline-middle;
+}
+body.ro .points-clculate p {
+    width: 93px;
+}
+body.ro .result-right a.btn.btn-won {
+    font-size: 12px;
+    padding: 10px 6px;
+    height: 57px;
+    white-space: pre-wrap; /* css-3 */    
+    white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+    white-space: -pre-wrap; /* Opera 4-6 */    
+    white-space: -o-pre-wrap; /* Opera 7 */    
+    word-wrap: break-word; /* Internet Explorer 5.5+ */
+}
+body.ro .headerbtn-signup ul li a {
+    font-size: 12px;
+}
+/*****************END Romania page******************/
+}
+@media (max-width: 767px){
+.banner-text h1 {
+    font-size: 1.4em;
+}
+.banner-text {
+    top: 102px;
+}
+.package-body ul {
+    height: auto;
+}
+.package-section li{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.package-body li{
+    margin-bottom: 4px;
+}
+.package-body li p{
+    font-size: 14px;
+}
+.package-section li:last-child{
+    margin-bottom: 0px;
+}
+.account-btn h4{
+    font-size: 28px;
+}
+button.navbar-toggler{
+    margin-top: 29px;
+}
+.package-header b{
+    height: auto;
+}
+.payment_option label:first-child {
+    background-position: right 1px;
+    background-size: 150px;
+}
+.dsktopview{
+    display: none;
+}
+.mbileview{
+    display: block;
+}
+.mbileview tr:nth-child(3) td strong{
+    display: block;
+    width: 100%;
+}
+.mbileview tr:nth-child(3) td{
+    border-top: 1px solid #808080!important;
+}
+.result-right, .table2 {
+    height: 204px;
+}
+.result-right{
+    border-right: none;
+}
+.table2 {
+    border-left: none!important;
+}
+.result-right ul li:first-child .detail-match{
+    flex-direction: column-reverse;
+    display: flex;
+}
+.result-right ul li{
+    padding-left: 0px;
+}
+.detail-match > div {
+    display: inline-block;
+    float: left;
+    width: 100%;
+    padding-left: 10px;
+}
+.result-right ul li:first-child{
+    border: none;
+}
+.title-bang h2 {
+    font-size: 30px;
+    margin-bottom: 14px;
+}
+.title-bang:before {
+    width: 0;
+    right: 0;
+}
+.title-bang:after {
+    width: 0;
+    left: 0;
+}
+.result-right p {
+    width: 100%;
+    font-size: 13px;
+    padding-left: 0px;
+    margin: 0px;
+    line-height: 1.3;
+}
+.table2 tr:nth-child(2) td p {
+    font-size: 12px;
+    background-color: #e6e6e6;
+    text-align: center;
+    margin: 0px;
+    padding: 3px 4px;
+    display: block;
+}
+.table2 tr:nth-child(2) td span {
+    text-align: center;
+    display: block;
+    font-weight: 700;
+    background-color: transparent;
+}
+.table2 tr:first-child td:nth-child(2) {
+    font-size: 14px;
+    vertical-align: middle;
+}
+.table2 tr:first-child td:nth-child(1){
+    text-align: center!important;
+}
+.table2 tr:first-child td:nth-child(1) span{
+    text-align: center!important;
+}
+.latest-rsult .title-main{
+    margin-bottom: 0px!important;
+}
+.table2 tr:nth-child(3) td span {
+    margin: 0;
+    background-color: #e6e6e6;
+    border-radius: 30px;
+    padding: 4px;
+    font-size: 12px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.result-right a.btn.btn-won {
+    padding: 17px 4px;
+    font-size: 16px;
+    max-width: 100%
+}
+.points-clculate p{
+    width: auto;
+}
+.points-clculate span {
+    font-size: 26px;
+    vertical-align: baseline;
+}
+.detail-match > div p{
+    max-width: 100%;
+    min-width: 100%;
+}
+.result-right ul li:nth-child(2) .detail-match p{
+    min-width: 100%;
+}
+.form-box {
+    width: 85%;
+}
+.contact-page {
+    width: 100%;
+}
+.results-tabs .nav-tabs li {
+    margin: 0 auto 7px;
+    width: 234px;
+}
+.result-table th {
+    font-size: 12px;
+}
+.result-table td {
+    font-size: 14px;
+}
+.category-tabs .nav-tabs li{
+    width: auto;
+}
+.month-dropdown select option {
+    font-size: 12px;
+    padding: 2px;
+}
+.month-dropdown select{
+    padding: 2px 4px;
+    font-size: 12px;
+}
+.month-dropdown{
+    margin-bottom: 20px;
+}
+.month-dropdown:before {
+    top: 14px;
+    font-size: 26px;
+}
+.title-bang .col-md-8, .title-bang .col-md-4 {
+    padding: 0px 15px;
+}
+.footer-logo {
+    margin-bottom: 10px;
+}
+.copyright p {
+    margin-top: 20px;
+}
+.testimonial-part{
+    height: auto;
+}
+.update-page {
+    padding-top: 0px!important;
+}
+.testimonial-part p{
+    max-height: auto;
+    overflow: unset;
+}
+.best-resultlast{
+    font-size: 20px!important;
+}
+.best-resultlast_desc h3 {
+    font-size: 16px;
+}
+.newmultiple_detail-match {
+    flex-direction: unset!important;
+    display: inline-block!important;
+}
+.new_bettop ul li:first-child{
+    width: 100%;
+    height: 30px;
+}
+.new_bettop ul li:nth-child(2), .new_bettop ul li:nth-child(3), .new_bettop ul li:nth-child(4){
+    width: 33.3%;
+}
+.new_bettop ul li:nth-child(2){
+    border-color: #fff;
+}
+.firts-sec ul li:nth-child(3){
+    display: none;
+}
+.firts-sec ul li:first-child {
+    width: 33.3%;
+    text-align: center;
+}
+.countpart{
+    width: 100%;
+    height: auto;
+    display: flex;
+    padding: 2px 0px 2px 6px;
+}
+.countpart-full{
+    width: 100%;
+    float: left;
+}
+.new_bettop ul li span{
+    font-size: 12px;
+}
+.newmultiple_detail-match .btn-won {
+    padding: 25px 6px!important;
+}
+.secnd-sec{
+    height: 78px;
+    padding: 6px 0px
+}
+ .secnd-sec li{
+    height: auto;
+    width: 100%;
+    font-weight: 700;
+ }
+.secnd-sec span{
+    position: relative;
+    transform: translateY(0);
+    top: 0;
+}
+.first-newrepeat {
+    padding-left: 0px!important;
+}
+.first-newrepeat {
+    height: 166px;
+}
+.countpart p {
+    padding-left: 6px;
+}
+.mb-tag {
+    display: flex;
+    padding-left: 50px;
+}
+.latest-rsult .month-dropdown.float-right {
+    width: 100%;
+    padding: 0 5px;
+}
+.secnd-sec li p{
+    font-size: 14px;
+}
+.countpart tag{
+    font-size: 11px;
+}
+/**********************German Page**************/
+body.de .package-header h5 {
+    height: auto;
+}
+body.de .points-clculate p{
+    width: auto;
+}
+body.de .points-clculate span{
+    vertical-align: middle;
+}
+body.de .result-right a.btn.btn-won{
+    max-width: 100%;
+}
+body.de .detail-match > div p{
+    width: 100%;
+    max-width: 100%;
+    vertical-align: baseline;
+}
+body.de .result-right ul li:nth-child(2) .detail-match p{
+    max-width: 100%;
+    vertical-align: baseline;
+}
+/********************German Page END******************/
+
+/****************Romania Page***********************/
+body.ro .points-clculate p{
+    width: auto;
+}
+body.ro .points-clculate span{
+    vertical-align: middle;
+}
+body.ro .result-right a.btn.btn-won{
+    max-width: 100%;
+}
+body.ro .detail-match > div p{
+    width: 100%;
+    max-width: 100%;
+    vertical-align: baseline;
+}
+body.ro .result-right ul li:nth-child(2) .detail-match p{
+    max-width: 100%;
+    vertical-align: baseline;
+}
+/******************Romania Page END***************/
+}
+
+@media (max-width: 575px){
+.banner-text {
+    top: 86px;
+}
+.banner-text h1 {
+    font-size: 20px;
+}
+.all-margin {
+    margin-top: 76px;
+}
+header a.navbar-brand img {
+    max-width: 110px;
+}
+.title-main h2 {
+    font-size: 36px;
+}
+.account-btn .btn-loginbtn{
+    font-size: 14px;
+}
+.paymeny_check {
+    padding: 10px 0px 0px 0px;
+}
+.title-bang h2 {
+    font-size: 26px;
+}
+.points-clculate span{
+    font-size: 24px;
+}
+.result-right ul li:nth-child(2) .detail-match p{
+    width: 100%;
+}
+.table2 tr:nth-child(2) td p{
+    font-size: 10px;
+    word-break: break-word;
+}
+.table2 tr:first-child td:nth-child(2) {
+    font-size: 12px;
+}
+.mbileview tr:nth-child(3) td{
+    vertical-align: middle;
+}
+.table2 tr:nth-child(3) td span{
+    font-size: 10px;
+}
+.mbileview tr:nth-child(3) td strong{
+    font-size: 12px;
+}
+.full-part .col-md-4.offset-md-8.text-center.mt-2 {
+    padding: 0px 10px;
+}
+.table2 tr:first-child td:nth-child(1) span{
+    font-size: 12px;
+}
+.table2 tr:first-child td:nth-child(1) p {
+    font-size: 12px;
+}
+.form-box {
+    width: 90%;
+}
+.form-box button.btn.btn-resetlink{
+    width: 100%
+}
+.contact-page button.btn.btn-primary{
+    width: 200px;
+}
+.account-section .btn-submit {
+    width: 200px;
+}
+.result-right a.btn.btn-won {
+    padding: 14px 4px;
+}
+footer.wi-full.py-5 {
+    padding: 30px 0px 15px!important;
+}
+.thankyou-page img {
+    max-width: 85px;
+}
+.errorpage h2 {
+    font-size: 6rem;
+}
+.border-div a.btn.btn-submit{
+    width: 178px;
+}
+.reviw-table td{
+    vertical-align: top!important;
+}
+/********************German Page******************/
+body.de .headerbtn-signup ul li {
+    padding: 2px 6px 2px;
+}
+/********************German Page END******************/
+
+/************Romania Page*****************/
+body.ro .headerbtn-signup ul li {
+    padding: 2px 6px 2px;
+}
+/*************Romania Page END***********/
+}
+
+@media (max-width: 479px){
+.banner-text h1 {
+    font-size: 17px;
+}
+.title-main h2 {
+    font-size: 30px;
+}
+.account-btn h4 {
+    font-size: 24px;
+}
+.header-language li {
+    padding: 3px 4px 0px 4px;
+}
+.header-language li a{
+    font-size: 12px;
+}
+.headerbtn-signup ul li {
+    padding: 2px 6px 2px;
+}
+.headerbtn-signup ul li a{
+    font-size: 12px;
+}
+.headerbtn-signup{
+    right: 50px;
+}
+button.navbar-toggler {
+    margin-top: 28px;
+    padding: 4px 4px;
+}
+div#myModal {
+    padding: 0 10px!important;
+}
+.loginpopup button.close{
+    right: 10px;
+}
+div#forgot-link {
+    float: left;
+    width: 100%;
+    position: relative;
+    margin-top: -10px!important;
+    text-align: center;
+}
+.result-right, .table2 {
+    height: 212px;
+}
+}
+
+@media (max-width: 400px){
+.banner-text {
+    top: 83px;
+}
+.banner-text h1 {
+    font-size: 13px;
+}
+.countpart tag{
+    font-size: 12px;
+}
+.secnd-sec li p{
+    font-size: 12px;
+}
+.firts-sec ul li:first-child p {
+    font-size: 12px;
+}
+.firts-sec ul li:nth-child(2){
+    width: 66.7%;
+    text-align: center;
+}
+.firts-sec ul li:nth-child(2) p {
+    font-size: 12px;
+}
+}
